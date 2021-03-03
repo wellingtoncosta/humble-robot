@@ -1,0 +1,45 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+.DS_Store
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Intellij
+*.iml
+.idea/*
+
+# Keystore files
+*.jks
+
+# Build Folders
+app/debug/
+app/release/
+
+# Sensitive or high-churn files:
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+
+# Gradle:
+.idea/gradle.xml
+
+### Gradle ###
+.gradle
+/build/
+
+# Avoid ignoring codeStyles files
+!.idea/codeStyles
